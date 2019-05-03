@@ -1,0 +1,11 @@
+C:\Users\jkehs\workspace\csharp\SQL\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp2.2\DepartmentsEmployees.csprojAssemblyReference.cache
+C:\Users\jkehs\workspace\csharp\SQL\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp2.2\DepartmentsEmployees.csproj.CoreCompileInputs.cache
+C:\Users\jkehs\workspace\csharp\SQL\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp2.2\DepartmentsEmployees.AssemblyInfoInputs.cache
+C:\Users\jkehs\workspace\csharp\SQL\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp2.2\DepartmentsEmployees.AssemblyInfo.cs
+C:\Users\jkehs\workspace\csharp\SQL\DepartmentsEmployees\DepartmentsEmployees\bin\Debug\netcoreapp2.2\DepartmentsEmployees.deps.json
+C:\Users\jkehs\workspace\csharp\SQL\DepartmentsEmployees\DepartmentsEmployees\bin\Debug\netcoreapp2.2\DepartmentsEmployees.runtimeconfig.json
+C:\Users\jkehs\workspace\csharp\SQL\DepartmentsEmployees\DepartmentsEmployees\bin\Debug\netcoreapp2.2\DepartmentsEmployees.runtimeconfig.dev.json
+C:\Users\jkehs\workspace\csharp\SQL\DepartmentsEmployees\DepartmentsEmployees\bin\Debug\netcoreapp2.2\DepartmentsEmployees.dll
+C:\Users\jkehs\workspace\csharp\SQL\DepartmentsEmployees\DepartmentsEmployees\bin\Debug\netcoreapp2.2\DepartmentsEmployees.pdb
+C:\Users\jkehs\workspace\csharp\SQL\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp2.2\DepartmentsEmployees.dll
+C:\Users\jkehs\workspace\csharp\SQL\DepartmentsEmployees\DepartmentsEmployees\obj\Debug\netcoreapp2.2\DepartmentsEmployees.pdb
